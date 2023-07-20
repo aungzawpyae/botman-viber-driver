@@ -1,5 +1,5 @@
 {
-    "name": "polyskalov/botman-viber-driver",
+    "name": "aungzawpyae/botman-viber-driver",
     "license": "MIT",
     "description": "Viber driver for BotMan",
     "keywords": [
@@ -8,16 +8,16 @@
         "Viber",
         "Messenger"
     ],
-    "homepage": "https://github.com/polyskalov/botman-viber-driver",
+    "homepage": "https://github.com/aungzawpyae/botman-viber-driver",
     "authors": [
         {
-            "name": "Oleksii Yaryi",
-            "email": "oleksii.yaryi@gmail.com"
+            "name": "Aung Zaw Pyae",
+            "email": "azp.dev@gmail.com"
         }
     ],
     "require": {
         "php": "^7.0 || ^8.1",
-        "botman/botman": "~2.0",
+        "botman/botman": "~2.8.2",
         "ext-json": "*"
     },
     "require-dev": {
